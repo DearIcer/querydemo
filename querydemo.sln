@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sugar", "sugar\sugar.csproj", "{56339F65-2F26-43EF-8570-7C5CB33AED21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF", "EF\EF.csproj", "{D5D1D049-200A-4F97-BFBF-C59DB22D980A}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A996F5-C3E3-49F4-8D9E-08EF321DF3B6}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5D1D049-200A-4F97-BFBF-C59DB22D980A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D1D049-200A-4F97-BFBF-C59DB22D980A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D1D049-200A-4F97-BFBF-C59DB22D980A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D1D049-200A-4F97-BFBF-C59DB22D980A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56339F65-2F26-43EF-8570-7C5CB33AED21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56339F65-2F26-43EF-8570-7C5CB33AED21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56339F65-2F26-43EF-8570-7C5CB33AED21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56339F65-2F26-43EF-8570-7C5CB33AED21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+EndGlobal

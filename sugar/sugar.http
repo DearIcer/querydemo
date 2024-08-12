@@ -1,0 +1,6 @@
+@sugar_HostAddress = http://localhost:5201
+
+GET {{sugar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
